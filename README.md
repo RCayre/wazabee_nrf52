@@ -1,10 +1,10 @@
-#Presentation
+# Presentation
 
 WazaBee is an attack allowing to transmit and receive 802.15.4 packets by diverting Bluetooth Low Energy chips. This software is a basic proof of concept implementing the two communication primitives used by this attack. This source code is not dedicated to an offensive usage, and it is only provided for research purposes. It is released as an open-source project under MIT license.
 
 This repository contains the WazaBee PoC firmware for the following development board: **Adafruit nRF52832 Feather**. This firmware exposes a basic API that can be manipulated using the WazaBee Command Line Interface.
 
-#Building and flashing this firmware
+# Building and flashing this firmware
 
 * Download and install Arduino IDE: <https://www.arduino.cc/en/Main/Software>
 
